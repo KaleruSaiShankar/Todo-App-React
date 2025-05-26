@@ -1,0 +1,22 @@
+.inputchange
+{
+  display: flex;
+  justify-self:left;
+}
+.hi
+{
+
+  text-align: left;
+}
+.row-1
+{
+  /* border: 3px groove gray; */
+  margin: 6px;
+  align-items:center;
+}
+
+.butn
+{
+  min-width: 70px;
+}
+

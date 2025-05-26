@@ -1,0 +1,16 @@
+.hi
+{
+  text-align: left;
+}
+.row1
+{
+  /* border: 3px groove gray; */
+  margin: 6px;
+  align-items:center;
+}
+
+.butn
+{
+  margin-top: 3px;
+  min-width: 70px;
+}
